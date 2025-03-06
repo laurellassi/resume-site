@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Laurel Lassi'
 SITENAME = 'Laurel Lassi Resume'
-SITEURL = ''
+SITEURL = 'https://laurellassi.github.io/resume-site'
 
 PATH = 'content'
 TIMEZONE = 'America/Winnipeg'
@@ -31,8 +31,3 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-
-ARTICLE_URL = '{slug}.html'
-ARTICLE_SAVE_AS = '{slug}.html'
-PAGE_URL = '{slug}.html'
-PAGE_SAVE_AS = '{slug}.html'
