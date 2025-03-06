@@ -1,8 +1,7 @@
 Title: Resume 
-Date: 2025-03-05
 Slug: resume
-Category: resume
-Type: page
+Date: 2025-03-05
+Category: Resume
 
 ### Laurel Lassi 
 
@@ -10,9 +9,9 @@ Type: page
 
 Winnipeg, MB, CA
 
-Laurellassi@icloud.com
+**Email:** Laurellassi@icloud.com
 
-(431) 337-8180
+**Phone:** (431) 337-8180
 
 ---
 
