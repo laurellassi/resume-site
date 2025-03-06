@@ -4,12 +4,10 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Laurel Lassi'
 SITENAME = 'Laurel Lassi Resume'
-SITEURL = ''
+SITEURL = 'https://laurellassi.github.io/resume-site/'
 
 PATH = 'content'
-
 TIMEZONE = 'America/Winnipeg'
-
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing

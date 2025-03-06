@@ -1,6 +1,7 @@
 Title: Resume 
 Date: 2025-03-05
 Slug: resume
+Category: resume
 Type: page
 
 ### Laurel Lassi 
