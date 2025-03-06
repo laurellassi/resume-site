@@ -4,15 +4,13 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Laurel Lassi'
 SITENAME = 'Laurel Lassi Resume'
-SITEURL = 'https://github.com/laurellassi/resume-site'
+SITEURL = ''
 
 PATH = 'content'
 
 TIMEZONE = 'America/Winnipeg'
 
 DEFAULT_LANG = 'en'
-
-INDEX_SAVE_AS = 'resume.html'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -32,7 +30,6 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = False
-PAGE_PATHS = ['pages']  # Ensure Pelican finds your pages
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
