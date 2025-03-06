@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Laurel Lassi'
 SITENAME = 'Laurel Lassi Resume'
-SITEURL = 'https://laurellassi.github.io/resume-site/'
+SITEURL = ''
 
 PATH = 'content'
 TIMEZONE = 'America/Winnipeg'
