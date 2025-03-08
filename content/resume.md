@@ -3,7 +3,7 @@ Slug: resume
 Date: 2025-03-05
 Category: Resume
 
-### Laurel Lassi 
+# Laurel Lassi 
 
 ---
 
@@ -19,7 +19,7 @@ I am a bilingual and customer-focused bartender with over two years of experienc
 
 ---
 
-#### Work Expericence
+## Work Expericence
 **Bartender**
 
 VIP CINEPLEX-Winnipeg, MB 
@@ -38,12 +38,13 @@ July 2024 to August 2024
 
 - Led interactive activities and games to encourage children to practice French.
 - Travelled to various communities across Manitoba to run day camp programs.
-- Organized engaging experiences that promoted language learning in a fun environment. • Ensured camper safety and well-being throughout daily activities.
+- Organized engaging experiences that promoted language learning in a fun environment.
+- Ensured camper safety and well-being throughout daily activities.
 - Fostered a positive and inclusive atmosphere for all participants.
 
 ---
 
-#### Education
+## Education
 **Bachelor's in Computer Science**
 
 University of Manitoba
@@ -58,7 +59,7 @@ June 2021
 
 ---
 
-#### Skills
+## Skills
 - Cashiering
 - Food Service
 - Bilingual
@@ -67,13 +68,13 @@ June 2021
 
 ---
 
-#### Languages
+## Languages
 - English - Fluent
 - French - Fluent
 
 ---
 
-#### Certifications and Licenses
+## Certifications and Licenses
 **Smart Serve**
 
 August 2021 to August 2026
