@@ -94,10 +94,14 @@ Requirements in order for you to host and publish your resume online:
 
     1. Add the following Metadata at the top of your resume:  
     <br>
-        >Title: Resume 
-        >Slug: resume
-        >Date: [year-month-day]
-        >Category: Resume
+    
+    >Title: Resume 
+    >
+    >Slug: resume
+    >
+    >Date: [year-month-day]
+    >
+    >Category: Resume
     
     2. Format your resume.
 

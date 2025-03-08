@@ -1,6 +1,6 @@
 Title: Resume 
 Slug: resume
-Date: 2025-03-05
+Date: 2025-03-08
 Category: Resume
 
 # Laurel Lassi 
